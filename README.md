@@ -64,13 +64,3 @@ To run the Library Management System locally, follow these steps:
      java LibraryManagementSystem
      ```
 
-## License  
-This project is licensed under the **MIT License** - see the LICENSE file for details.
-
-## Contributing  
-If you'd like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request. Please follow the guidelines outlined in the CONTRIBUTING file.
-
-## Contact  
-For any inquiries or issues, feel free to reach out:  
-- Email: your-email@example.com  
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
